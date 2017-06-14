@@ -1,0 +1,17 @@
+{
+  "name": "svg-backgrounds",
+  "version": "0.0.1",
+  "description": "Generate SVG CSS background images",
+  "bin": {
+    "svgbg": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arxpoetica/svg-backgrounds.git"
+  },
+  "author": "Robert Hall <langbert@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
